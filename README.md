@@ -4,8 +4,10 @@
 ## *About Me*
 
 
-**Name:** FS   
+**Name:** FS
+<br>
 **Loves:** 🎮 Games, 📚 configuration
+<br>
 **Hobbies:** 💻 Some Tech Stuff, 🐧 Linux Ricing (nixos)
 </center>
 
