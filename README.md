@@ -15,4 +15,4 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" width="40"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" width="40"/>
+<img src="[https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg](https://upload.wikimedia.org/wikipedia/commons/3/35/Nix_Snowflake_Logo.svg)" width="40"/>
