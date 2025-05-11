@@ -1,5 +1,7 @@
 <h4>Hate self</h4>
 
+---
+
 - 🌍 I'm based in Earth
 - 🧠 I'm learning Rust and Nix
 - 🤝 I am open to help/collaborate with anything in Linux.
