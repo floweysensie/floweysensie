@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/addy-dclxvi/arch-linux-art/master/Arch-Linux-icon-crystal-256.svg" width="40px" style="display: inline-block; margin-right: 10px;" title="Arch Linux">
   <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" width="40px" style="display: inline-block; margin-right: 10px;" title="Fish Shell">
   <img src="https://w7.pngwing.com/pngs/520/391/png-transparent-rust-system-programming-language-programmer-programming-language-logo-bicycle-part-c.png" width="40px" height="40px" style="display: inline-block; margin-right: 10px;" title="Rust">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg" width="40px" style="display: inline-block;" title="Neovim">
+  <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/static/favicon.png" width="40px" style="display: inline-block;" title="Neovim">
 </div>
 
 ---
