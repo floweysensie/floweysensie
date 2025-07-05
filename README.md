@@ -8,5 +8,6 @@
 
 <div>
   <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" width="40px" style="display: inline-block; margin-right: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/487568?s=200&v=4" width="40px" style="display: inline-block;">
+  <img src="[https://avatars.githubusercontent.com/u/487568?s=200&v=4](https://www.cleanpng.com/free/arch-linux.html)" width="40px" style="display: inline-block;">
+  
 </div>
