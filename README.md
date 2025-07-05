@@ -8,7 +8,6 @@
 - 🐟 Terminal powered by Fish, because bash is too mainstream
 - 📝 Neovim all the way (VSCode who?)
 - 🤝 Open to help/collab with anything Linux-y or Rusty
-- 😅 Trying to be productive, but memes happen
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/efff7b62-6f97-4784-88ed-f3aff3ef763c" width="40px" style="display: inline-block; margin-right: 10px;" title="Arch Linux">
