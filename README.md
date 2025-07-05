@@ -3,7 +3,7 @@
 ---
 
 - 🌍 I'm based in Earth
-- 🧠 I'm learning Rust and Nix
+- 🦀 I'm learning Rust
 - 🤝 I am open to help/collaborate with anything in Linux.
 
 <div>
