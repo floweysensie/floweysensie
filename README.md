@@ -15,4 +15,4 @@ I'm Flowey, just a random Hobbyist Programmer.
 **Fun Facts:**
 * I like video games.
 * Not an anime fan.
-* I use Arch btw... (or do I?).
+* I use Arch btw... (I really hate arch).
