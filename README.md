@@ -2,7 +2,7 @@
 I'm Flowey, just a random Hobbyist Programmer.
 
 **I am currently working working on:**
-- Trying to make something (I don't actually)
+- Trying to make something (I don't actually. I am lazy)
 
 ---
 
