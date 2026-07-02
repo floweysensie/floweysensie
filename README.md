@@ -9,6 +9,7 @@ I'm Flowey, just a random Hobbyist Programmer.
 **My main tech stuff is:**
 - C++
 - Qt Creator
+- Notpad (optional)
 
 ---
 
